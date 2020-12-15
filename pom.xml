@@ -14,9 +14,7 @@
 	<name>app</name>
 	<description>rice project</description>
 
-	<properties>
-		<java.version>11</java.version>
-	</properties>
+
 
 	<dependencies>
 		<dependency>
