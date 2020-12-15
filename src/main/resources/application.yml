@@ -1,8 +1,8 @@
 app:
   datasource:
-    jdbc-url: jdbc:postgresql://postgresql-silhouetted-32258/d3n7ls4ln31mrm
-    username: yqrrlkcrpaphij
-    password: f0a6fdf80e6183d6d30a3e80791f727a12293dc86c55bed2efc8d62f9fcb519a
+    jdbc-url: jdbc:postgresql://127.0.0.1:5432/rctdb
+    username: postgres
+    password: password
     pool-size: 30
 
 server:
